@@ -1,0 +1,24 @@
+{
+  "name": "proyecto-final-",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sheyssi04/Proyecto-Final-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/sheyssi04/Proyecto-Final-/issues"
+  },
+  "homepage": "https://github.com/sheyssi04/Proyecto-Final-#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
